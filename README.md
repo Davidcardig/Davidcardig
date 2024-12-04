@@ -1,6 +1,5 @@
 # 💫 À propos de moi :
-Bonjour et bienvenue !<br>J’aime coder et concevoir. Je me spécialise dans la création d’interfaces et de fonctionnalités pour des applications web en utilisant des technologies comme ReactJS et .NET, et je développe également des applications de bureau robustes grâce à WPF. Mon intérêt pour l’informatique a commencé très jeune, et j’ai toujours été curieux d’en apprendre le plus possible. En dehors du développement, je suis passionné par le sport, notamment les sports de renforcement que je pratique régulièrement.
-
+Bonjour et bienvenue !<br>Passionné d’informatique depuis toujours, j’aime apprendre et explorer de nouvelles technologies. Curieux et autonome, je me spécialise dans le développement d’interfaces web et d’applications robustes avec ReactJS, C# et .NET. Chaque projet est une occasion de repousser mes limites et d’innover. En dehors du code, je pratique les sports de renforcement, qui m’aident à cultiver discipline et persévérance.
 
 ## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/david-cardigos-3a572a233/) 
